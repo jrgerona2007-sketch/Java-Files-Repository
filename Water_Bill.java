@@ -34,7 +34,7 @@ if (cbm<1){
     } 
     System.out.println("You have used: "+cost+ " cubic meters of water");
     System.out.println("Your Total Bill is: " + cbt + " Pesos");
-
+    inp.close();
 }
 }
 }
